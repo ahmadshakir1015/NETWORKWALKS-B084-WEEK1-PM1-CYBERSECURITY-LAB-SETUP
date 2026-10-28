@@ -137,7 +137,7 @@ After completing the initial configuration, a VirtualBox snapshot was created.
 
 Example snapshot name:
 
-Clean Kali - Network Setup
+![image alt](https://github.com/ahmadshakir1015/NETWORKWALKS-B084-WEEK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/03-screenshot-netsetup-image.png?raw=true)
 
 The snapshot represents the clean baseline of the laboratory.
 
