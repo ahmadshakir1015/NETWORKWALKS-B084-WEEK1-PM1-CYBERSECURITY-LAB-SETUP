@@ -40,8 +40,6 @@ It can be used for activities such as:
 
 🏗️ Lab Architecture 
 
-![vitualbox-image] (screenshots/01-screenshot-vitualbox-image.png)
-
 Additional target machines can be added to the same virtual network in future projects.
 
 ⚙️ Lab Configuration
@@ -83,7 +81,7 @@ Step 2. Install VirtualBox
 
 VirtualBox was installed as the hypervisor.
 
-![image alt](https://github.com/ahmadshakir1015/NETWORKWALKS-B084-WEEK1-PM1-CYBERSECURITY-LAB-SETUP/blob/7696e2040890f6f651961743703e2c66e4235acf/01-screenshot-vitualbox-image.png}
+![image alt](https://github.com/ahmadshakir1015/NETWORKWALKS-B084-WEEK1-PM1-CYBERSECURITY-LAB-SETUP/blob/7696e2040890f6f651961743703e2c66e4235acf/01-screenshot-vitualbox-image.png)
 
 Step 3. Create the NAT Network
 
