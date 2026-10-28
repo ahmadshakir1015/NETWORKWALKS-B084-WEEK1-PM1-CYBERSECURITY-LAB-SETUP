@@ -38,7 +38,9 @@ It can be used for activities such as:
 
 ⚠️ Important: This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
-🏗️ Lab Architecture
+🏗️ Lab Architecture 
+
+![vitualbox-image] (screenshots/01-screenshot-vitualbox-image.png)
 
 Additional target machines can be added to the same virtual network in future projects.
 
@@ -80,6 +82,8 @@ Tool: 7-Zip
 Step 2. Install VirtualBox
 
 VirtualBox was installed as the hypervisor.
+
+![image alt](https://github.com/ahmadshakir1015/NETWORKWALKS-B084-WEEK1-PM1-CYBERSECURITY-LAB-SETUP/blob/7696e2040890f6f651961743703e2c66e4235acf/01-screenshot-vitualbox-image.png}
 
 Step 3. Create the NAT Network
 
