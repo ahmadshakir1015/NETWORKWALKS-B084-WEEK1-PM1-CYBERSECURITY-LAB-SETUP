@@ -143,6 +143,8 @@ The snapshot represents the clean baseline of the laboratory.
 
 If a future exercise changes or damages the VM configuration, the machine can be restored to this baseline.
 
+![image alt](https://github.com/ahmadshakir1015/NETWORKWALKS-B084-WEEK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/04-screenshot-mainpage-image.png?raw=true)
+
 🔎 Lab Verification
 
 ✅ Test 	🧾 Command 	🎯 Expected Result
